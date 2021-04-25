@@ -2,6 +2,9 @@ Next Level Week #5
 
 Desenvolvimento da Next Level Week 5
 
+A Next Level Week foi um projeto desenvolvido pela Rocketseat durante uma semana utilizando NextJS e React.
+
+O Podcastr é um projeto desenvolvido com o intuito de ouvir podcasts da Rocketseat.
 
 Para rodar o projeto localmente
 
